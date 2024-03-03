@@ -1,6 +1,7 @@
 # Домашнее задание к занятию «Основы Git»
 
 https://github.com/ovchdmitriy01/devops-netology
+
 https://gitlab.com/ovchdmitriy01/devops-netology
 
 ## Задание 1. Знакомимся с GitLab и Bitbucket 
